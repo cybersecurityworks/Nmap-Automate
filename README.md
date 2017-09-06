@@ -1,6 +1,6 @@
 This tool helps to automate the Nmap Scripts & Commands. YOU CAN ADD NMAP SCRIPTS IN THIS TOOL ACCORDING TO THE REQUIREMENTS
 
-Operating system => Kali linux/ Backrack
+Operating system => Kali linux/ Backtrack
 
 Installation Procedure:
 
